@@ -23,4 +23,8 @@
 #define LCD_RS      PB1			// RS bit
 #define LCD_EN      PB0			// Enable bit
 
+// Switch/Button pins
+#define SW_BK       PC5         // Backlight switch
+#define SW_NEXT     PC4         // Flip to next Page
+
 #endif /* GLOBALS_H_ */

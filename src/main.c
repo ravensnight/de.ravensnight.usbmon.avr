@@ -17,12 +17,11 @@
 
 #define SVC_TIME_SCALE 6			// timerscale
 
-#define PIN_BKLIGHT (1 << PC5)
-#define PIN_NEXTSVC (1 << PC4)
+#define PIN_BKLIGHT (1 << SW_BK)
+#define PIN_NEXTSVC (1 << SW_NEXT)
 
 #define BUFFER_MAX		30
 #define QUOTED_MAX		2
-
 #define CMD_INIT		"@:"
 
 #define ST_READY		0x00
