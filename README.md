@@ -3,6 +3,8 @@
 Ever liked to monitor a PC or Home Server with a small LCD display?
 USB-Mon does it on a simple way.
 
+<img src="img/display.jpg" alt="display" width="480" height="auto">
+
 ## In a Nutshell
 
 USB-Mon intents to be a light health monitor for home-brewed server or PCs which run without any display.<br/>
