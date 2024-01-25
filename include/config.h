@@ -2,7 +2,7 @@
  * config.h
  *
  * Created: 06.01.2024 10:55:07
- *  Author: waldwuffel
+ *  Author: ravensnight
  */ 
 
 

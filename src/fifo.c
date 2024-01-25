@@ -2,7 +2,7 @@
  * fifo.c
  *
  * Created: 02.01.2024 15:57:56
- *  Author: waldwuffel
+ *  Author: ravensnight
  */ 
 
 #include "fifo.h"

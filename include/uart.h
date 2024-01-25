@@ -2,7 +2,7 @@
  * uart.h
  *
  * Created: 03.01.2024 07:07:12
- *  Author: waldwuffel
+ *  Author: ravensnight
  */ 
 
 

@@ -2,7 +2,7 @@
  * controller.c
  *
  * Created: 07.01.2024 11:53:31
- *  Author: waldwuffel
+ *  Author: ravensnight
  */ 
 
 #include "controller.h"

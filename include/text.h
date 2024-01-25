@@ -2,7 +2,7 @@
  * buffer.h
  *
  * Created: 21.01.2024 10:06:03
- *  Author: waldwuffel
+ *  Author: ravensnight
  */ 
 
 

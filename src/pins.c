@@ -2,7 +2,7 @@
  * pins.c
  *
  * Created: 05.01.2024 14:08:24
- *  Author: waldwuffel
+ *  Author: ravensnight
  */ 
 
 #include "pins.h"

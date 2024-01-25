@@ -2,7 +2,7 @@
  * fifo.h
  *
  * Created: 02.01.2024 15:51:38
- *  Author: waldwuffel
+ *  Author: ravensnight
  */ 
 
 

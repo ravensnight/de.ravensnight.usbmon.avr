@@ -2,7 +2,7 @@
  * lcd.c
  *
  * Created: 03.01.2024 12:22:22
- *  Author: waldwuffel
+ *  Author: ravensnight
  */ 
 
 #include "lcd.h"

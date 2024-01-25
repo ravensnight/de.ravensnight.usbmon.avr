@@ -2,7 +2,7 @@
  * text.c
  *
  * Created: 21.01.2024 13:59:51
- *  Author: waldwuffel
+ *  Author: ravensnight
  */ 
 
 #include "text.h"

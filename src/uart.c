@@ -2,7 +2,7 @@
  * uart.c
  *
  * Created: 03.01.2024 07:08:13
- *  Author: waldwuffel
+ *  Author: ravensnight
  */ 
 
 #include "uart.h"
